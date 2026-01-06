@@ -6,5 +6,5 @@
 
 💡 &nbsp;Passionate about building high-quality web applications and exploring modern technologies.<br>
 🎓 &nbsp;Currently focusing on mastering Go backends and React for scalable full-stack development.<br>
-✍️ &nbsp;In my free time, I enjoy watching cinema, studying UI/UX design trends, and expanding my skill set.<br>
+✍️ &nbsp;In my free time, I enjoy watching cinema and expanding my skill set.<br>
 💬 &nbsp;Open to collaborative projects, professional networking, and meaningful tech discussions.<br>
